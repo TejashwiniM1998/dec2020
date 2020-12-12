@@ -2,4 +2,3 @@ hello
 teju
 how are you
 line 4 is conflict
-line 4 is different

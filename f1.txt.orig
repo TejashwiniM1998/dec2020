@@ -1,0 +1,8 @@
+hello
+teju
+how are you
+<<<<<<< HEAD
+line 4 is different
+=======
+line 4 is conflict
+>>>>>>> a108d6564dbd8d386d393d9f584c91223676a997
